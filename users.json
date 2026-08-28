@@ -1,12 +1,494 @@
 {
   "kelases": [
-    "UNASSIGNED / CLEARED"
+    "XI.5"
   ],
-  "siswas": [],
+  "siswas": [
+    {
+      "id": 1787909914383,
+      "nama": "ABDUL KARIM",
+      "nohp": "0095711447",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914384,
+      "nama": "AINI GUSTRI YONDRA",
+      "nohp": "0095954780",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914385,
+      "nama": "ALICIA SAHL PUTRI",
+      "nohp": "0092815964",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914386,
+      "nama": "ALYA RIHADATUL AISY",
+      "nohp": "0094776683",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914387,
+      "nama": "ASYRAF PASMA ALVARO",
+      "nohp": "0104433671",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914388,
+      "nama": "AURELLIA RAHADATUL AISY",
+      "nohp": "0107188432",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914389,
+      "nama": "DIVA ADIRA PUTRI",
+      "nohp": "0097122585",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914390,
+      "nama": "DWI RAYUKA INDRA",
+      "nohp": "0094671607",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914391,
+      "nama": "FAIZAH HUMAIDA NURUL'AINI",
+      "nohp": "0095065782",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914392,
+      "nama": "FAYZIANI MENTARI NASUTION",
+      "nohp": "0109915352",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914394,
+      "nama": "FEBRIANI SINURAT",
+      "nohp": "0104502485",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914395,
+      "nama": "GHAITSA ALFATUN NISA",
+      "nohp": "0098168851",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914396,
+      "nama": "HAFIZHAH ADINA SYAHIRA",
+      "nohp": "0093120907",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914397,
+      "nama": "HAYATUL ALTHA FUNISA",
+      "nohp": "0105116053",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914398,
+      "nama": "KENZIE CLARISSA TIFFANY",
+      "nohp": "0106245274",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914399,
+      "nama": "KEYSHA MEILANY PUTRI MELINGGA",
+      "nohp": "0106286957",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914400,
+      "nama": "KHAYYIRAH",
+      "nohp": "0105458632",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914401,
+      "nama": "KIRANA RATNA DEWANTI DIRJA",
+      "nohp": "0096655225",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914402,
+      "nama": "MAHIRA GHAZIYA",
+      "nohp": "0094121447",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914403,
+      "nama": "MARVELA AZIZAH",
+      "nohp": "0106003263",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914404,
+      "nama": "MUTIARA WIJAYA",
+      "nohp": "0099110740",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914405,
+      "nama": "NABILA DWI HELANI",
+      "nohp": "0091842900",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914407,
+      "nama": "NAZILA ULFIAH",
+      "nohp": "0105590748",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914408,
+      "nama": "OLIVA SAHILA SHAKI",
+      "nohp": "0107092374",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914409,
+      "nama": "QATRUN NADA",
+      "nohp": "0107142509",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914410,
+      "nama": "QUEENSHA LATIVAH ZELDRA",
+      "nohp": "0104288734",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914411,
+      "nama": "RAFAEL HANAN PRIMA",
+      "nohp": "0096993474",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914412,
+      "nama": "RAHMA JULIANTI",
+      "nohp": "0105771401",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914413,
+      "nama": "SALSABILA AZHARI",
+      "nohp": "0093109967",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914414,
+      "nama": "SARAH ATIIQAH RAHMA",
+      "nohp": "0102932688",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914415,
+      "nama": "SHAHIRA SITI NAJLA",
+      "nohp": "0105130945",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914416,
+      "nama": "SHELVI VENYSA PUTRI",
+      "nohp": "0109485811",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914417,
+      "nama": "SHERLY ACHIDSTI",
+      "nohp": "0101518348",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914418,
+      "nama": "SHIDQI KHALAF",
+      "nohp": "0094993208",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914419,
+      "nama": "SYAFA RAMADHANI",
+      "nohp": "0095412452",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914421,
+      "nama": "SYAHLA NURFADILLAH",
+      "nohp": "0109383746",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914422,
+      "nama": "SYARIFA NAJLA",
+      "nohp": "0107084208",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914423,
+      "nama": "ULFA HAURA",
+      "nohp": "0093618542",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914424,
+      "nama": "YOZA MEIDIVI PUTRI",
+      "nohp": "0106205492",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914425,
+      "nama": "ZAHARA AMIRA",
+      "nohp": "0103838798",
+      "kelas": "XI.5"
+    }
+  ],
   "metadata": {
-    "kelas": "UNASSIGNED / CLEARED",
-    "jumlah_siswa": 0,
-    "updated": "2026-08-28T09:38:22.050Z"
+    "kelas": "XI.5",
+    "jumlah_siswa": 40,
+    "updated": "2026-08-28T09:39:24.930Z"
   },
-  "siswa": []
+  "siswa": [
+    {
+      "id": 1787909914383,
+      "nama": "ABDUL KARIM",
+      "nohp": "0095711447",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914384,
+      "nama": "AINI GUSTRI YONDRA",
+      "nohp": "0095954780",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914385,
+      "nama": "ALICIA SAHL PUTRI",
+      "nohp": "0092815964",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914386,
+      "nama": "ALYA RIHADATUL AISY",
+      "nohp": "0094776683",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914387,
+      "nama": "ASYRAF PASMA ALVARO",
+      "nohp": "0104433671",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914388,
+      "nama": "AURELLIA RAHADATUL AISY",
+      "nohp": "0107188432",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914389,
+      "nama": "DIVA ADIRA PUTRI",
+      "nohp": "0097122585",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914390,
+      "nama": "DWI RAYUKA INDRA",
+      "nohp": "0094671607",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914391,
+      "nama": "FAIZAH HUMAIDA NURUL'AINI",
+      "nohp": "0095065782",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914392,
+      "nama": "FAYZIANI MENTARI NASUTION",
+      "nohp": "0109915352",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914394,
+      "nama": "FEBRIANI SINURAT",
+      "nohp": "0104502485",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914395,
+      "nama": "GHAITSA ALFATUN NISA",
+      "nohp": "0098168851",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914396,
+      "nama": "HAFIZHAH ADINA SYAHIRA",
+      "nohp": "0093120907",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914397,
+      "nama": "HAYATUL ALTHA FUNISA",
+      "nohp": "0105116053",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914398,
+      "nama": "KENZIE CLARISSA TIFFANY",
+      "nohp": "0106245274",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914399,
+      "nama": "KEYSHA MEILANY PUTRI MELINGGA",
+      "nohp": "0106286957",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914400,
+      "nama": "KHAYYIRAH",
+      "nohp": "0105458632",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914401,
+      "nama": "KIRANA RATNA DEWANTI DIRJA",
+      "nohp": "0096655225",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914402,
+      "nama": "MAHIRA GHAZIYA",
+      "nohp": "0094121447",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914403,
+      "nama": "MARVELA AZIZAH",
+      "nohp": "0106003263",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914404,
+      "nama": "MUTIARA WIJAYA",
+      "nohp": "0099110740",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914405,
+      "nama": "NABILA DWI HELANI",
+      "nohp": "0091842900",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914407,
+      "nama": "NAZILA ULFIAH",
+      "nohp": "0105590748",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914408,
+      "nama": "OLIVA SAHILA SHAKI",
+      "nohp": "0107092374",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914409,
+      "nama": "QATRUN NADA",
+      "nohp": "0107142509",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914410,
+      "nama": "QUEENSHA LATIVAH ZELDRA",
+      "nohp": "0104288734",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914411,
+      "nama": "RAFAEL HANAN PRIMA",
+      "nohp": "0096993474",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914412,
+      "nama": "RAHMA JULIANTI",
+      "nohp": "0105771401",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914413,
+      "nama": "SALSABILA AZHARI",
+      "nohp": "0093109967",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914414,
+      "nama": "SARAH ATIIQAH RAHMA",
+      "nohp": "0102932688",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914415,
+      "nama": "SHAHIRA SITI NAJLA",
+      "nohp": "0105130945",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914416,
+      "nama": "SHELVI VENYSA PUTRI",
+      "nohp": "0109485811",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914417,
+      "nama": "SHERLY ACHIDSTI",
+      "nohp": "0101518348",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914418,
+      "nama": "SHIDQI KHALAF",
+      "nohp": "0094993208",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914419,
+      "nama": "SYAFA RAMADHANI",
+      "nohp": "0095412452",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914421,
+      "nama": "SYAHLA NURFADILLAH",
+      "nohp": "0109383746",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914422,
+      "nama": "SYARIFA NAJLA",
+      "nohp": "0107084208",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914423,
+      "nama": "ULFA HAURA",
+      "nohp": "0093618542",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914424,
+      "nama": "YOZA MEIDIVI PUTRI",
+      "nohp": "0106205492",
+      "kelas": "XI.5"
+    },
+    {
+      "id": 1787909914425,
+      "nama": "ZAHARA AMIRA",
+      "nohp": "0103838798",
+      "kelas": "XI.5"
+    }
+  ]
 }
